@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Project - Yann Nzirabatinyi</title>
+    <link href="styles.css/styles.css" rel="stylesheet" type="text/css">
+
+    <script src="https://kit.fontawesome.com/10c649e5b3.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <img src="images/logo.png" alt="Three Start Media">
+                <ul>
+                    <li class="current"><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Team</a></li>
+                    <li><a href="#">Contact</a></li>
+                
+                </ul>
+                <form>
+                    <input type="text" id="search" name="search">
+                    <button>&#128269;</button>
+                    
+                </form>
+            </div> <!-- end container -->    
+        </nav>
+        
+        <!-- xxxxxxxxxxxxxxx INTRO xxxxxxxxxxxxxxxx -->
+        <div class="banner-card">
+            <p>&nbsp;</p>
+            <img src="images/main-banner.jpg">
+            <div class="banner-text">
+                
+                <h4>Welcome to Three Star Media</h4>
+                <p>dshfsihdfsibdsdbsibdciudb.skdhbcsbdsbdhcskbdc.bdc.ksbdcb</p>
+                <button>Connect with us <span>&#8227;</span></button>
+            </div>
+        </div>
+        
+                
+        
+                    
+            </div>
+           
+                <button>Connect with us <span>&#8227;</span></button>
+                
+                
+            
+            </div> <!-- end container -->
+
+        </div> <!-- end intro -->
+
+    </header>
+
+    <main>
+        <!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxx ABOUT xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx -->
+       <section class="about">
+        <div class="container">
+        <p>&nbsp;</p>
+          <img src="images/about-us.jpg">
+          <h2>About Us</h2>
+          <p>Suspendisse et orci nisl. Maecenas rutrum commodo neque, sed feugiat nulla mattis ac. Ut purus magna, vehicula a gravida vel, malesuada at tellus. Curabitur vitae facilisis magna. Suspendisse at cursus velit. In rhoncus finibus blandit. Donec tincidunt orci nisl, eu molestie leo suscipit non.</p>
+          <p>Nulla facilisi. Cras eget cursus neque. Maecenas vel sagittis justo. Suspendisse auctor libero non eros mattis, nec fermentum eros cursus. Morbi rhoncus mollis dolor volutpat ullamcorper. Vestibulum vehicula in est quis lacinia. Ut bibendum risus a pulvinar maximus. Vivamus nec nisi in massa hendrerit suscipit non sit amet ex. Nam quis finibus orci, eget tempus felis.</p>
+          </div> <!-- end container -->
+          </section> <!-- end about -->
+
+      <!-- xxxxxxxxxxxxxxxxxxxxxxx SERVICES xxxxxxxxxxxxxxxxxxxxxxxxxx -->
+
+      <section class="services">
+          <div class="container">
+              <h2>Our Services</h2>
+
+              <div class="grid-container">
+              <div class="grid-item">
+                <img src="images/digital.jpg">
+                <h3>Digital Transformation</h3>
+                <p>Suspendisse et orci nisl. Maecenas rutrum commodo neque, sed feugiat nulla mattis ac. Ut purus magna, vehicula a gravida vel, malesuada at tellus. Curabitur vitae facilisis magna. Suspendisse at cursus velit. In rhoncus finibus blandit. Donec tincidunt orci nisl, eu molestie leo suscipit non.</p>
+                <button>Digital Plans <span>&#8227;</span></button>
+                
+                </div> <!-- end grid-item -->
+                <div class="grid-item">
+                    <img src="images/marketing.jpg">
+                 <h3>Marketing</h3>
+                 <p>Nulla facilisi. Cras eget cursus neque. Maecenas vel sagittis justo. Suspendisse auctor libero non eros mattis, nec fermentum eros cursus. Morbi rhoncus mollis dolor volutpat ullamcorper. Vestibulum vehicula in est quis lacinia. Ut bibendum risus a pulvinar maximus. Vivamus nec nisi in massa hendrerit suscipit non sit amet ex. Nam quis finibus orci, eget tempus felis.</p>
+                 <button>Marketing Plans <span>&#8227;</span></button>
+                 </div> <!-- end grid-item -->
+            
+                 
+                 <div class="grid-item">
+                     <img src="images/video.jpg">
+                     <h3>Video Production</h3>
+                     <p>Nam quis malesuada dolor. Suspendisse ullamcorper fringilla dui sit amet elementum. Sed blandit eleifend leo, eget gravida velit egestas quis. Etiam eu est vel purus dapibus pulvinar. Aliquam accumsan leo libero, non convallis eros ultrices nec. Maecenas molestie eros sit amet ex rhoncus fringilla. Integer dui tortor, iaculis molestie quam sed, egestas laoreet augue. </p>
+                     <button>Video Plans <span>&#8227;</span></button>
+                    </div> <!-- end grid-item -->
+                     
+
+                 </div>
+                 <div class="grid-item">
+                     <img src="images/web.jpg">
+                     <h3>Web Development</h3>
+                     <p>Curabitur faucibus commodo lorem, ut lacinia orci gravida accumsan. Quisque magna augue, molestie at volutpat nec, viverra id lorem. Nulla sit amet semper mi. Aenean non euismod lacus. Donec laoreet, diam non ultrices finibus, ante nibh lacinia enim, et semper est elit tempor orci. Nullam non ligula et enim volutpat ultricies et a ante. Praesent feugiat justo sit amet bibendum malesuada.</p>
+                     <button>Web Plans <span>&#8227;</span></button>
+                    </div> <!-- end grid-item -->
+                    
+                 </div>
+                 <div class="grid-item">
+                     <img src="images/print.jpg">
+                     <h3>Print</h3>
+                     <p>Nulla facilisi. Cras eget cursus neque. Maecenas vel sagittis justo. Suspendisse auctor libero non eros mattis, nec fermentum eros cursus. Morbi rhoncus mollis dolor volutpat ullamcorper. Vestibulum vehicula in est quis lacinia. Ut bibendum risus a pulvinar maximus. Vivamus nec nisi in massa hendrerit suscipit non sit amet ex. Nam quis finibus orci, eget tempus felis.</p>
+                     <button>Print Plans <span>&#8227;</span></button>
+                    </div> <!-- end grid-item -->
+                 
+                </div><!-- end of services -->
+                <div class="banner-card">
+                    <p>&nbsp;</p>
+                    <img src="images/vision.jpg">
+                    <div class="banner-text">
+                        
+                        <h1>Our Vision</h1>
+                        <p>dshfsihdfsibdsdbsibdciudb.skdhbcsbdsbdhcskbdc.bdc.ksbdcb</p>
+                        <p>&nbsp;</p>
+                        <button>Connect with us <span>&#8227;</span></button>
+                    </div>
+                </div>
+                
+                
+                </section> <!-- end vision -->
+
+                <!-- xxxxxxxxxxxxxxx TEAM xxxxxxxxxxxxxxxxxx -->
+                  <section class="team">
+                    <div class="grid-container">
+                        <h2>Our Team</h2>
+                        <div class="grid-row">
+                            <div class="grid-item grid-item--image">
+                        <img src="images/john.jpg">
+                        </div> <!-- end grid-item -->
+                        <div class="grid-item grid-item--text">
+                        <h3>John Doe</h3>
+                        <h4>CEO and Co-owner</h4>
+                        <p>Etiam eu est vel purus dapibus pulvinar. Aliquam accumsan leo libero, non convallis eros ultrices nec. Maecenas molestie eros sit amet ex rhoncus fringilla. Integer dui tortor, iaculis molestie quam sed, egestas laoreet augue. Vestibulum luctus lectus purus, faucibus volutpat eros dapibus quis. Etiam eu sapien aliquet, ultricies magna ut, egestas purus. Donec vitae efficitur nunc. Quisque porttitor placerat elit non sagittis.</p>
+                    </div> <!-- end grid-item -->
+                    </div> <!-- end grid-row -->
+
+                    <div class="grid-row grid-row--reverse">
+                       <div class="grid-item grid-item--text">
+                        
+                        <img src="images/bob.jpg">
+                        <h2>Bob Rite</h2>
+                        <h3>CFO and Co-owner</h3>
+                        <p>Curabitur faucibus commodo lorem, ut lacinia orci gravida accumsan. Quisque magna augue, molestie at volutpat nec, viverra id lorem. Nulla sit amet semper mi. Aenean non euismod lacus. Donec laoreet, diam non ultrices finibus, ante nibh lacinia enim, et semper est elit tempor orci. Nullam non ligula et enim volutpat ultricies et a ante. Praesent feugiat justo sit amet bibendum malesuada.</p>
+                    </div> <!-- end grid-item -->
+                    <!-- xxxxxxxxxxxxxxx CONTACT xxxxxxxxxxxxxxxxx -->
+                    <section class="contact">
+                        <div class="grid-container">
+                            <h2>Contact Us</h2>
+                            <div class="grid-item">
+                                <h3>Send us a message</h3>
+                                <form action="/action_page.php">
+                                    <label for="fname">Full Name:</label><br>
+                                    <input type="text" id="lname" name="lname" value=""><br><br>
+                                    <label for="lname">Email:</label><br>
+                                    <input type="text" id="lname" name="lname" value=""><br><br>
+                                   
+                                  </form>
+                                  <label for="fname">Message:</label><br>
+                                  <textarea name="message" rows="10" cols="70">
+                                   
+                                    </textarea>
+                                    
+                                    <button>Send</button>
+                                </div> <!-- end grid-item -->
+                    <div class="Hours">
+                        <h2>Hours of operation</h2>
+                        <style>
+                            table, td, th {
+                              border: 1px solid black;
+                            }
+                            
+                            table {
+                              width: 100%;
+                              border-collapse: collapse;
+                            }
+                            </style>
+                            </head>
+                            <body>
+                            
+                            <h2>Let the borders collapse</h2>
+                            
+                            <table>
+                              <tr>
+                                <th>Firstname</th>
+                                <th>Lastname</th>
+                              </tr>
+                              <tr>
+                                <td>Peter</td>
+                                <td>Griffin</td>
+                              </tr>
+                              <tr>
+                                <td>Lois</td>
+                                <td>Griffin</td>
+                              </tr>
+                            </table>
+                          
+                         
+                    </div>
+                    
+                    <div class="Location">
+                        <p>&nbsp;</p>
+                        <h2>Location</h2> 
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12377.494270556896!2d-84.5488461!3d39.1434842!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8841b4665765cc9f%3A0xb1a2d0a73e91ab13!2sAmerican%20Sign%20Museum!5e0!3m2!1sfr!2sci!4v1617883331608!5m2!1sfr!2sci" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+                    </div>
+                </div>
+
+          </div><!------ End footer ------>
+
+      </section>
+
+
+    </main>
+
+    <footer>
+
+    </footer>
+    
+</body>
+</html>
